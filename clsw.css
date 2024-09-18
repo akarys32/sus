@@ -1,0 +1,40 @@
+body{
+    border: 7px solid rgb(236, 230, 230);
+    display: flex;
+    width: 24rem;
+    height: 28rem;
+    margin: 11.5rem;
+    
+}
+.main{
+    text-align: center;
+    margin: -9px;
+    background-color: rgb(170, 245, 247);
+    box-shadow: 0 15px 15px;
+    border-radius: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+h2{
+    width:180px;
+    margin-left: 115px;
+}
+button{
+    padding: 15px;
+    margin-top: 1.rem;
+    height: 40px;
+    width: 300px;
+    color: rgb(243, 243, 244);
+    background-color: rgb(19, 93, 167);
+    
+}
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+.table{
+    margin-top:-13px;
+}
+.t1{
+    line-height: 40px;
+   
+}
